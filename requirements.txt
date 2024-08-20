@@ -3,4 +3,4 @@ pandas
 numpy
 altair
 joblib
-sklearn
+scikit-learn
